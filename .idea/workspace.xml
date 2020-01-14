@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WMg1dFyBlHcoHGQ0oKFD7tjmDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -60,7 +61,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,9 +71,25 @@
       <option name="presentableId" value="Default" />
       <updated>1578964663541</updated>
     </task>
+    <task id="LOCAL-00001" summary="Save Data to  Data base">
+      <created>1578965854105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578965854105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Save Data to  Data base" />
+    <option name="LAST_COMMIT_MESSAGE" value="Save Data to  Data base" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="464" y="127" key="CommitChangelistDialog2" timestamp="1578965853837">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="464" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1578965853837" />
     <state x="705" y="425" key="Github.ShareDialog" timestamp="1578965656475">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -97,9 +114,29 @@
     </state>
     <state width="1659" height="294" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1578965693041" />
     <state width="1379" height="247" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1578964965279" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1578966116518">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1578966116518" />
     <state x="517" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1578964722412">
       <screen x="0" y="23" width="1680" height="967" />
     </state>
     <state x="517" y="339" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1578964722412" />
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578965862011">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1578965862011" />
+    <state x="617" y="428" key="svn.passwordDialog" timestamp="1578965909508">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="617" y="428" key="svn.passwordDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578965909508" />
+    <state x="678" y="323" key="svn.repositoryBrowser" timestamp="1578965913996">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="678" y="323" key="svn.repositoryBrowser/0.0.1680.1050@0.0.1680.1050" timestamp="1578965913996" />
+    <state x="636" y="307" key="svn4idea.import.options" timestamp="1578965892437">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="636" y="307" key="svn4idea.import.options/0.0.1680.1050@0.0.1680.1050" timestamp="1578965892437" />
   </component>
 </project>
